@@ -10,4 +10,4 @@ the captions more or less, save as srt
 
 Example:
 
-![![](https://streamable.com/x1d62f)](https://cdn-cf-east.streamable.com/image/x1d62f.jpg)
+[![](https://cdn-cf-east.streamable.com/image/x1d62f.jpg)](https://streamable.com/x1d62f)

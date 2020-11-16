@@ -18,7 +18,7 @@ class MyCaption:
 
 
 class Sentence:
-	caption_separators = [",", ";", " "]
+	caption_separators = [",", ";", ":", " "]
 	captions: List[MyCaption]
 
 	def __init__(self):

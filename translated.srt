@@ -1,0 +1,499 @@
+1
+00:00:00,800 --> 00:00:03,600
+Video games are experiencing rapid development.
+
+2
+00:00:03,600 --> 00:00:05,600
+Their artificial worlds
+
+3
+00:00:05,600 --> 00:00:08,920
+are becoming more and more detailed and therefore more
+
+4
+00:00:08,920 --> 00:00:11,520
+realistic, the stories they tell more and more complex.
+
+5
+00:00:11,520 --> 00:00:13,520
+In contrast to films,
+
+6
+00:00:13,520 --> 00:00:16,920
+video games adapt individually to the viewers.
+
+7
+00:00:16,920 --> 00:00:20,160
+Now guess where the Hollywood of video games lies!
+
+8
+00:00:20,160 --> 00:00:23,480
+Not in America or Asia, certainly not in Germany,
+
+9
+00:00:23,480 --> 00:00:25,120
+but in Poland.
+
+10
+00:00:25,120 --> 00:00:26,680
+This is also where
+
+11
+00:00:26,680 --> 00:00:29,640
+the most eagerly awaited game of the year comes from.
+
+12
+00:00:29,800 --> 00:00:32,960
+The release of "Cyberpunk 2077" has been
+
+13
+00:00:32,960 --> 00:00:36,440
+postponed several times, but now it is imminent.
+
+14
+00:00:36,440 --> 00:00:41,240
+We present the 57 years of history playing in the future
+
+15
+00:00:41,240 --> 00:00:46,200
+and show you previously unpublished graphical material.
+
+16
+00:00:46,320 --> 00:00:50,360
+weird music
+
+17
+00:00:52,280 --> 00:00:56,280
+You are player and storyteller.
+
+18
+00:00:56,440 --> 00:00:59,960
+What happens when the big corporations become even more powerful
+
+19
+00:01:00,120 --> 00:01:02,960
+when they buy up all the small companies?
+
+20
+00:01:03,120 --> 00:01:06,600
+And what happens when the American president
+
+21
+00:01:06,760 --> 00:01:09,920
+we have right now is re-elected ten more times?
+
+22
+00:01:09,920 --> 00:01:11,920
+Where does the journey go?
+
+23
+00:01:11,920 --> 00:01:14,000
+The journey goes to Night City,
+
+24
+00:01:14,160 --> 00:01:17,560
+a Moloch on the American West Coast.
+
+25
+00:01:18,600 --> 00:01:20,600
+The city leaves you no choice.
+
+26
+00:01:20,600 --> 00:01:23,560
+Either you burn alive or
+
+27
+00:01:23,560 --> 00:01:25,520
+you never existed.
+
+28
+00:01:27,600 --> 00:01:32,680
+"Cyberpunk 2077" is half film noir, half pessimistic science fiction.
+
+29
+00:01:32,840 --> 00:01:35,080
+Gangs spread chaos and terror, just
+
+30
+00:01:35,240 --> 00:01:38,240
+like the private militias of huge corporations.
+
+31
+00:01:40,000 --> 00:01:42,800
+Typical for the genre, the game
+
+32
+00:01:42,960 --> 00:01:45,920
+asks where humanity begins and where it ends.
+
+33
+00:01:46,080 --> 00:01:50,480
+Body modifications are the order of the day in Night City.
+
+34
+00:01:50,480 --> 00:01:53,800
+Our game reflects the end time capitalism, where
+
+35
+00:01:53,800 --> 00:01:57,200
+the world is controlled by huge corporations.
+
+36
+00:01:57,200 --> 00:02:02,600
+For example, if we look at the police in our game, the NCPD,
+
+37
+00:02:02,600 --> 00:02:05,000
+the Night City Police Department,
+
+38
+00:02:05,000 --> 00:02:08,160
+whose jurisdiction basically ends where that of
+
+39
+00:02:08,320 --> 00:02:10,560
+the corporations begins.
+
+40
+00:02:10,720 --> 00:02:13,840
+The technical possibilities are almost limitless.
+
+41
+00:02:14,000 --> 00:02:18,000
+State and moral structures have almost disappeared.
+
+42
+00:02:18,000 --> 00:02:20,960
+Miles Tost helped develop this dystopia.
+
+43
+00:02:20,960 --> 00:02:24,680
+He worked on it for about four years, together with 500 colleagues.
+
+44
+00:02:24,840 --> 00:02:29,320
+A mammoth project of the Polish developer studio "CD Projekt Red",
+
+45
+00:02:29,480 --> 00:02:32,880
+made famous with the blockbuster game "Witcher 3".
+
+46
+00:02:34,160 --> 00:02:37,760
+The game about the sorcerer Geralt von Riva was so successful
+
+47
+00:02:37,760 --> 00:02:41,760
+that it became stylistically the template for a Netflix series,
+
+48
+00:02:41,760 --> 00:02:45,160
+the most successful in 2019.
+
+49
+00:02:53,400 --> 00:02:56,800
+When we started working on "Cyberpunk",
+
+50
+00:02:56,800 --> 00:03:00,200
+I was also interested in a technological leap.
+
+51
+00:03:00,200 --> 00:03:02,400
+The most important thing was the
+
+52
+00:03:02,400 --> 00:03:06,400
+immersion, that I, as a gamer, could dive into the world of "Cyberpunk".
+
+53
+00:03:06,560 --> 00:03:10,360
+We worked a lot on creating a high level of game flow.
+
+54
+00:03:10,360 --> 00:03:13,080
+When I move around the city as a player
+
+55
+00:03:13,080 --> 00:03:15,080
+and meet new characters,
+
+56
+00:03:15,080 --> 00:03:18,240
+I have no cuts, no interruptions.
+
+57
+00:03:18,240 --> 00:03:20,840
+As a player, I'm in the game all the time.
+
+58
+00:03:20,840 --> 00:03:22,840
+This leads to
+
+59
+00:03:22,840 --> 00:03:27,240
+the fact that the experiences in the story touch me very much.
+
+60
+00:03:31,720 --> 00:03:35,120
+The player slips into the role of "V", a mercenary.
+
+61
+00:03:35,280 --> 00:03:41,280
+It's about overcoming one last limit: our finiteness.
+
+62
+00:03:41,280 --> 00:03:43,760
+"V" is in search of a biochip that
+
+63
+00:03:43,920 --> 00:03:46,400
+promises eternal life.
+
+64
+00:03:49,720 --> 00:03:53,720
+That much is clear. The rest is up to the players on the inside.
+
+65
+00:03:53,720 --> 00:03:55,840
+Where did V grow up?
+
+66
+00:03:56,000 --> 00:03:59,240
+Which cyber implants will V be equipped with?
+
+67
+00:03:59,400 --> 00:04:03,280
+Boundaries also disappear in appearance and gender.
+
+68
+00:04:03,280 --> 00:04:07,680
+V can be male, female or even transgender.
+
+69
+00:04:07,840 --> 00:04:10,560
+Still a provocation for many
+
+70
+00:04:10,720 --> 00:04:13,760
+and in catholic Poland a provocative topic.
+
+71
+00:04:16,960 --> 00:04:20,760
+I think that not only in Poland, but also especially in Poland, this
+
+72
+00:04:20,760 --> 00:04:23,560
+has attracted a lot of criticism worldwide.
+
+73
+00:04:23,560 --> 00:04:27,160
+But as a studio we position ourselves very clearly.
+
+74
+00:04:27,160 --> 00:04:30,760
+As an individual, I also think it's very good that we do that.
+
+75
+00:04:30,760 --> 00:04:36,000
+Our studio advertises that we are an environment for
+
+76
+00:04:36,000 --> 00:04:40,640
+creativity from all minds and from all walks
+
+77
+00:04:40,640 --> 00:04:45,360
+of life and that we have a very open policy.
+
+78
+00:04:45,520 --> 00:04:47,600
+The studio positions itself clearly.
+
+79
+00:04:47,760 --> 00:04:51,520
+When women in Poland take to the streets against the tightened
+
+80
+00:04:51,680 --> 00:04:55,680
+abortion law, Ciri from "Witcher 3" showed up with red
+
+81
+00:04:55,680 --> 00:04:58,880
+lightning, the symbol of the protests.
+
+82
+00:04:59,880 --> 00:05:04,680
+A lot of women work at "CD Projekt Red".
+
+83
+00:05:04,680 --> 00:05:09,480
+For us it is important to really pay attention to all groups.
+
+84
+00:05:10,840 --> 00:05:14,640
+"CD Projekt Red" also stands for this other Poland,
+
+85
+00:05:14,800 --> 00:05:18,640
+beyond the Catholic Church and the Pis party.
+
+86
+00:05:18,800 --> 00:05:22,440
+The country has become a creative hotspot for gaming.
+
+87
+00:05:22,440 --> 00:05:25,760
+Poland is the fourth largest exporter of video games,
+
+88
+00:05:25,920 --> 00:05:28,320
+ahead of Germany and the USA.
+
+89
+00:05:29,520 --> 00:05:31,920
+I have been there for 7 years now.
+
+90
+00:05:31,920 --> 00:05:35,320
+What I noticed positively right at the
+
+91
+00:05:35,320 --> 00:05:39,320
+beginning is that it's probably part of the Polish
+
+92
+00:05:39,320 --> 00:05:44,000
+nature not to talk so much and not to have such a big mouth.
+
+93
+00:05:45,280 --> 00:05:48,680
+But the game is even bigger.
+
+94
+00:05:48,840 --> 00:05:51,480
+It has been created, at the latest since the
+
+95
+00:05:51,640 --> 00:05:54,040
+pandemic, also in home offices all over the world.
+
+96
+00:05:56,040 --> 00:05:59,760
+Including old acquaintances:
+
+97
+00:05:59,920 --> 00:06:02,920
+Trust me or not, I don't give a shit!
+
+98
+00:06:02,920 --> 00:06:05,520
+It's really the smallest of our problems.
+
+99
+00:06:05,520 --> 00:06:08,320
+Keanu Reeves has taken on a leading role.
+
+100
+00:06:08,320 --> 00:06:10,640
+You're history, asshole!
+
+101
+00:06:10,640 --> 00:06:14,400
+The players inside are thrown into this open world.
+
+102
+00:06:14,560 --> 00:06:17,560
+The possibilities to move around in the
+
+103
+00:06:17,720 --> 00:06:21,320
+game are individual and impressive.
+
+104
+00:06:21,320 --> 00:06:26,320
+A gloomy, sad, but also exciting playground.
+
+105
+00:06:30,800 --> 00:06:33,400
+Unlike in films, we don't have a
+
+106
+00:06:33,400 --> 00:06:37,400
+story that is told from A to B in a fixed way to the end.
+
+107
+00:06:37,400 --> 00:06:41,560
+Rather, the player can make decisions based on a
+
+108
+00:06:41,560 --> 00:06:43,960
+variety of options in the game.
+
+109
+00:06:43,960 --> 00:06:47,760
+These decisions ensure that the story adapts,
+
+110
+00:06:47,760 --> 00:06:50,760
+changes and develops differently.
+
+111
+00:06:50,920 --> 00:06:54,320
+What does it mean to be human in this world?
+
+112
+00:06:54,320 --> 00:06:57,960
+How do the players react? Do they give Royce the money?
+
+113
+00:07:00,640 --> 00:07:03,240
+Pistol shot It
+
+114
+00:07:04,720 --> 00:07:07,320
+can also be pacifist: Here
+
+115
+00:07:07,320 --> 00:07:09,920
+is the money on it!
+
+116
+00:07:15,120 --> 00:07:17,520
+What the players appreciate is that
+
+117
+00:07:17,520 --> 00:07:21,520
+they are confronted with their own morals a little bit.
+
+118
+00:07:21,520 --> 00:07:25,520
+This results in a very personal story, because
+
+119
+00:07:25,520 --> 00:07:28,320
+it depends very much on the moral
+
+120
+00:07:28,320 --> 00:07:30,920
+compass of the player.
+
+121
+00:07:31,080 --> 00:07:34,200
+Nothing in the game is clearly black and white.
+
+122
+00:07:34,360 --> 00:07:36,960
+I was expecting him.
+
+123
+00:07:38,320 --> 00:07:42,040
+Like a good film noir, "Cyberpunk" knows all the grayscales
+
+124
+00:07:42,200 --> 00:07:46,120
+and neon lights that are reflected in puddles.
+
+125
+00:07:48,280 --> 00:07:52,720
+A world in which a happy end is not intended.
